@@ -14,4 +14,4 @@ Referensi
 
 Screenshot
 ------------
-https://github.com/zerkijulian92/LifeCycleAndroid/issues/1#issue-481869890
+![coding lifecycle](https://user-images.githubusercontent.com/50509675/63209760-87e34700-c10f-11e9-8934-eee67a2ef81d.png)
