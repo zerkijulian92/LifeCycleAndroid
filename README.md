@@ -7,7 +7,7 @@ Aplikasi Ini Menggunakan
 -----------
 - Android Studio
 - Java
-- XMl
+- XML
 
 
 Referensi
