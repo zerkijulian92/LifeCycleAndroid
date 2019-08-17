@@ -3,6 +3,13 @@ Tentang Aplikasi
 LifeCycleAndroid  adalah aplikasi yang memperlihatkan bagaimana Lifecycle Activity di android studio itu berjalan
 
 
+Aplikasi Ini Menggunakan
+-----------
+- Android Studio
+- Java
+- XMl
+
+
 Referensi
 ---------
 - Youtube: https://www.youtube.com/watch?v=YXduecxY4Q0
